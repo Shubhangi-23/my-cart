@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"  # Replace with your build command
+  publish = "public"        # Replace with your build output directory
+
+[site]
+  name = "My Shopping Cart"   # Replace with your site's name
